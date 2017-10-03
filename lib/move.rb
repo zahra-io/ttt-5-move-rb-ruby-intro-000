@@ -13,5 +13,5 @@ def input_to_index(input)
 end
 
 def move(array, index, x_or_o="X")
-
+  
 end
