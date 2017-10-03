@@ -12,6 +12,6 @@ def input_to_index(input)
   user_input - 1
 end
 
-def move(array, index, x_or_o="X")
+def move(array, index, char="X")
   
 end
